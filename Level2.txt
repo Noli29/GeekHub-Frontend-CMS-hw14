@@ -1,0 +1,83 @@
+Level 2
+____________________________
+map()
+
+###################
+#@               *#
+###################
+
+undefined
+east(1)
+true
+map()
+
+###################
+# @              *#
+###################
+
+undefined
+east(1)
+true
+map()
+
+###################
+#  @             *#
+###################
+
+undefined
+east(2)
+true
+map()
+kernel.js:3 
+###################
+#   @            *#
+###################
+
+undefined
+east(1)
+true
+east(1)
+true
+east(1)
+true
+east(1)
+true
+east(1)
+true
+east(1)
+true
+map()
+
+###################
+#         @      *#
+###################
+
+undefined
+east(1)
+true
+east(1)
+true
+east(1)
+true
+east(1)
+true
+map()
+
+###################
+#             @  *#
+###################
+
+undefined
+east(1)
+true
+east(1)
+true
+map()
+
+###################
+#               @*#
+###################
+
+undefined
+east(1)
+Congratulation, you win this level

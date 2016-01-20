@@ -1,0 +1,206 @@
+Level 5
+_______________
+map()
+
+#########
+#@      #
+####### #
+#   #   #
+# # # ###
+# # # ###
+# #   ###
+# #######
+#      *#
+#########
+
+undefined
+
+east()+east()+east()+east()+east()+east()+south()+south()
+8
+
+map()
+
+#########
+#       #
+####### #
+#   #  @#
+# # # ###
+# # # ###
+# #   ###
+# #######
+#      *#
+#########
+
+undefined
+
+west()+west()+south()+south()+west()+west()+north()+north()+north()
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+6
+
+west()+west()+south()+south()+west()+west()
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+2
+
+west()+west()+south()+south()
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+1
+
+west()+west()
+2
+
+map()
+ 
+#########
+#       #
+####### #
+#   #   #
+# # # ###
+# # # ###
+# #@  ###
+# #######
+#      *#
+#########
+
+undefined
+
+north()+north()+north()
+3
+
+west()+west()
+2
+
+map()
+
+#########
+#       #
+####### #
+#@  #   #
+# # # ###
+# # # ###
+# #   ###
+# #######
+#      *#
+#########
+
+undefined
+north()+north()+north()+north()+north()+east()+east()+east()
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+2
+
+map()
+
+#########
+#       #
+####### #
+#  @#   #
+# # # ###
+# # # ###
+# #   ###
+# #######
+#      *#
+#########
+
+undefined
+
+west()
+true
+
+north()+north()+north()+north()
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+0
+
+map()
+
+#########
+#       #
+####### #
+# @ #   #
+# # # ###
+# # # ###
+# #   ###
+# #######
+#      *#
+#########
+
+undefined
+
+west()
+true
+
+north()+north()+north()+north()
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+kernel.js:3 ! you can't go thru the wall
+0
+
+map()
+
+#########
+#       #
+####### #
+#@  #   #
+# # # ###
+# # # ###
+# #   ###
+# #######
+#      *#
+#########
+
+undefined
+
+south()+south()+south()+south()+south()
+5
+
+map()
+
+#########
+#       #
+####### #
+#   #   #
+# # # ###
+# # # ###
+# #   ###
+# #######
+#@     *#
+#########
+
+undefined
+
+east()+east()+east()
+3
+
+map()
+
+#########
+#       #
+####### #
+#   #   #
+# # # ###
+# # # ###
+# #   ###
+# #######
+#   @  *#
+#########
+
+undefined
+
+east()+east()
+2
+east()
+Congratulation, you win this level
