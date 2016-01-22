@@ -4,8 +4,6 @@ map();
 north();
 north();
 
-
-
 //Level 2
 map();
 
@@ -25,10 +23,10 @@ map();
 
 var i;
 for(i = 0; i < 14; i++){
-	if (isFree('south')==true)
-		south();
-	else
+	if (isFree('east')==true)
 		east();
+	else
+		south();
 }
 
 //Level 5
